@@ -1,0 +1,20 @@
+.product-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .product-info h3 {
+    margin: 0;
+  }
+  
+  .product-info p {
+    margin: 0;
+  }
+
+  .image-container img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+}
